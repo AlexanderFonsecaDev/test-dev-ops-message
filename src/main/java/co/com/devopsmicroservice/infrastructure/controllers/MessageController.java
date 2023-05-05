@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.validation.Valid;
 
 @RestController
-@RequestMapping("/api/v1/message")
+@RequestMapping("DevOps")
 @AllArgsConstructor
 public class MessageController {
 
